@@ -104,7 +104,7 @@ public class AddNewHabit extends BottomSheetDialogFragment {
                     mSaveBtn.setBackgroundColor(Color.GRAY);
                 } else {
                     mSaveBtn.setEnabled(true);
-                    mSaveBtn.setBackgroundColor(getResources().getColor(R.color.purple_500));
+                    mSaveBtn.setBackgroundColor(getResources().getColor(R.color.purple_200));
                 }
             }
 
